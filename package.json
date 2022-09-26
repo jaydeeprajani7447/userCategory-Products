@@ -1,0 +1,19 @@
+{
+  "name": "usercategoryandproducts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaydeeprajani7447/userCategory-Products.git"
+  },
+  "author": "jaydeePp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydeeprajani7447/userCategory-Products/issues"
+  },
+  "homepage": "https://github.com/jaydeeprajani7447/userCategory-Products#readme"
+}
